@@ -7,7 +7,6 @@ Codelab: https://gradus.dev/labs/gemini-with-function-calling-in-node-GZXRSV
 Make sure to install the dependencies:
 
 ```bash
-# npm
 npm install
 ```
 
@@ -15,6 +14,5 @@ npm install
 
 Start the development server on `http://localhost:3000`:
 ```bash
-# npm
 node index.js
 ```
